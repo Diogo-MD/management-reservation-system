@@ -1,0 +1,6 @@
+Apenas rodar o sistema_reserva.SQL no Workbench
+
+Email: admin@mail.com
+Senha: Root@123
+
+Já funciona com Hash
