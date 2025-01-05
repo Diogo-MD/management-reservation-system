@@ -2,11 +2,11 @@
 
 # 📘 Management and Reservation System
 
-Welcome to the Management and Reservation System developed by SENAC LAPA TITO! This application facilitates the management of rooms, classes, events, and more, including an interactive map displayed on the main screen and key control for the coordination team.
+Welcome to the Management and Reservation System! This application facilitates the management of rooms, classes, events, and more, including an interactive map displayed on the main screen and key control for the coordination team.
 
 ## 🖥️ Project Description
 
-The Management and Reservation System was designed to simplify the administration of room, class, and event reservations, offering an intuitive interface and an interactive map that helps in visualizing and managing reservations.
+The Management and Reservation System was developed as a student project implemented through the SENAC Lapa Tito institution. It aims to simplify the administration of room, class, and event reservations, offering an intuitive interface and an interactive map to visualize and manage reservations efficiently.
 
 ## 🏫 Main Features
 
@@ -31,5 +31,5 @@ The Management and Reservation System was designed to simplify the administratio
 - [Postagem da instituição](https://www.instagram.com/p/DDiDp1vPIyS/)
 
 <p align="center">
-  Implemented through the course TI04 - Informatics for the Internet at SENAC.
+  Developed as part of the TI04 - Informatics for the Internet course at SENAC.
 </p>
